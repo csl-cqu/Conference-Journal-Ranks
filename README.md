@@ -19,6 +19,7 @@
 | 信息安全 | TPDS, TIFS等信息安全领域顶级期刊
 | 人工智能 | ICML, NeurIPS, CVPR, ACL, ICCV, ECCV, AAAI, IJCAI等人工智能顶会|
 | 人工智能 | TPMAI, TIP等人工智能顶级期刊
+| 数据库与数据挖掘 | ICDE, KDD等数据库与数据挖掘领域顶级会议
 | 数据库与数据挖掘 | TKDE等数据库领域顶级期刊|
 
 
